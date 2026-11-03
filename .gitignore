@@ -1,0 +1,10 @@
+# Compiled program
+lms
+lms.exe
+*.o
+*.obj
+
+# Data created when the program runs
+books.txt
+users.txt
+transactions.txt
