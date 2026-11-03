@@ -1,0 +1,2 @@
+L|L001|Head Librarian|admin@library.local|admin123|0.00
+S|S001|assdf|asdf123@abc.com|1234|0.00
